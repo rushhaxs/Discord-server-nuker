@@ -12,7 +12,7 @@ bot = commands.Bot(command_prefix=BOT_PREFIX, case_insensitive=True)
 bot.remove_command('Help')
 
 # token
-token = "ENTER TOKEN HERE!!!"
+token = "DISCTOKEN"
 
 os.system("title Checking Token")
 print("[+] Checking token...")
